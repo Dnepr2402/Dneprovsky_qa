@@ -3,5 +3,5 @@
 
 ---
 
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1Pzl3Afl08_6lQYGtnpHfZWMxu65VRwbEA4ijEvPA6u4/edit#gid=0)
+[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1Pzl3Afl08_6lQYGtnpHfZWMxu65VRwbEA4ijEvPA6u4/edit#gid=0)
 
