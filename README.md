@@ -1,10 +1,10 @@
 # Dneprovsky_qa
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Пример написания тест-кейсов/чек-листов](https://docs.google.com/spreadsheets/d/1lMFPigKcka3L8kWaSfUZ_Ruuc9UnOsCwJAkS29i6xuU/edit#gid=1145112361)
+[Пример написания тест-кейсов/чек-листов](https://docs.google.com/spreadsheets/d/1lMFPigKcka3L8kWaSfUZ_Ruuc9UnOsCwJAkS29i6xuU/edit#gid=0)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Пример выполнения ТЗ](https://docs.google.com/spreadsheets/d/1I2YNj6k6MOkF-BABsH6F-n3LxP5wY1lPUKXZDaF1qUI/edit?usp=sharing)
+[Пример выполнения ТЗ](https://docs.google.com/spreadsheets/d/1hLRNhbAI2k8d5ewWSbtoVCj9XFxEefhsAVKQxfCGHPA/edit#gid=0)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
